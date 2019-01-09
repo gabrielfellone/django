@@ -1,0 +1,14 @@
+
+
+
+
+/var/www/html/venv/
+
+python manage.py runserver xxx.xxx.xxx:xxx
+
+
+Modules
+View
+Control
+Templates
+
